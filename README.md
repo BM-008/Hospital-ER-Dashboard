@@ -34,7 +34,7 @@ This project features an interactive Excel-based dashboard that visualizes key p
 
 ## 📷 Preview
 
-![Dashboard Screenshot](Screenshot.png)
+![Dashboard Screenshot](Hospital_ER_Dashboard.png)
 
 ## 🛠️ How to Use
 
