@@ -1,4 +1,4 @@
-#Hospital Emergency Room Dashboard (Excel)
+# Hospital Emergency Room Dashboard (Excel)
 
 This project features an interactive Excel-based dashboard that visualizes key performance metrics of a hospital emergency room (ER). It includes dynamic visualizations, slicers for filtering data by month and year and sheet-level interactivity.
 
